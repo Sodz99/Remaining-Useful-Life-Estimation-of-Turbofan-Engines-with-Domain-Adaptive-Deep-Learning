@@ -81,7 +81,6 @@ The entire project workflow, from data loading and preprocessing to model traini
 
 Open and run the cells in this notebook to reproduce the results.
 
-## Citation
 
 For a detailed understanding of the methodology and results, please refer to the research paper included in this repository:
 
