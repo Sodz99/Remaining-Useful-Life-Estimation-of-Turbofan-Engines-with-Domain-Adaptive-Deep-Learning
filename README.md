@@ -2,7 +2,6 @@
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.9+-red.svg)](https://pytorch.org/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 A reimplementation of "[Remaining Useful Lifetime Prediction via Deep Domain Adaptation](https://arxiv.org/abs/1907.07480)" for predicting when aircraft turbofan engines will fail. This project was developed as a final project for the Advanced Machine Learning course at BTH, implementing Domain-Adversarial Neural Networks (DANN) and achieving about 30% better RMSE compared to regular LSTM models.
 
